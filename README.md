@@ -1,5 +1,5 @@
-# ICS2OG-Introduction-to-Computer-Studies
-Homework and assignments from RHHS's ICS2OG (Grade 10 Gifted Computer Science) course.
+# ICS2O-Introduction-to-Computer-Studies
+Homework and assignments from RHHS's ICS2O (Grade 10 Computer Science) course.
 
 # Concepts Covered
  - **Basic Python Operations**
