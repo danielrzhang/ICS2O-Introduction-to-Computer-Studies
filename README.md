@@ -13,7 +13,7 @@ Homework and assignments from RHHS's ICS2O (Grade 10 Computer Science) course.
     - Parameter Passing, Return Values, Variable Scope
  - **Lists**
  
-    - Iteration, Adding, Removing, Indexing
+    - Iteration, Adding, Removing, Indexing, Slicing
  - **Final Project**
  
     - Work Logging, Planning, Coding, Testing 
