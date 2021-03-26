@@ -14,6 +14,10 @@ Homework and assignments from RHHS's ICS2O (Grade 10 Computer Science) course.
  - **Lists**
  
     - Iteration, Adding, Removing, Indexing, Slicing
+
+ - **GUI**
+    - PyGame
+ 
  - **Final Project**
  
     - Work Logging, Planning, Coding, Testing 
