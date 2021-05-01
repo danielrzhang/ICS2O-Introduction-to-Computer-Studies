@@ -1,5 +1,5 @@
 # ICS2O-Introduction-to-Computer-Studies
-![](/images/ICS2O.png)
+![](/images.RHHS.png) ![](/images/Python.png)
 
 Homework and assignments from RHHS's ICS2O (Grade 10 Computer Science) course.
 
