@@ -20,7 +20,7 @@ Homework and assignments from RHHS's ICS2O (Grade 10 Computer Science) course.
  - **GUI**
     - PyGame
  
- - [**Final Project**](https://github.com/danielrzhang/ICS2O-Final-Project)
+ - **Final Project**
  
     - Work Logging, Planning, Coding, Testing 
  
