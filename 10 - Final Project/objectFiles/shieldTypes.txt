@@ -1,3 +1,0 @@
-Iron Shield;20;ironShield.png
-Knights Shield;30;knightsShield.png
-Wooden Shield;10;woodenShield.png
